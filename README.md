@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Faraz Ahmed</h1>
 <h3 align="center">A passionate ethical hacker and cyber security experts from Pakistan</h3>
-<img align="right" alt="coding"width="400"src="https://user-images.githubusercontent.com/124487929/233106942-96cbc438-a004-4e3a-8c02-6b820a38a79d.png>
+<img align="right" alt="coding"width="400"src=">![image](https://user-images.githubusercontent.com/124487929/233107817-f26c1e4c-436d-403e-ac11-771c1caec704.png)>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahibzada-ahmed&label=Profile%20views&color=0e75b6&style=flat" alt="sahibzada-ahmed" /> </p>
 
