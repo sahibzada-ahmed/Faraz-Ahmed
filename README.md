@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Faraz Ahmed</h1>
 <h3 align="center">A passionate ethical hacker and cyber security experts from Pakistan</h3>
-<img align="right" alt="coding"width="400"src="https://user-images.githubusercontent.com/124487929/233108755-962bff49-2e3f-4eaf-94e7-0cd7799c41c8.png>
+<img align="right" alt="coding"width="400"img src="https://user-images.githubusercontent.com/124487929/233108755-962bff49-2e3f-4eaf-94e7-0cd7799c41c8.png>
 
 
 
