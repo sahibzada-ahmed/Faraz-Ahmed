@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Faraz Ahmed</h1>
 <h3 align="center">A passionate ethical hacker and cyber security experts from Pakistan</h3>
-!()logo(https://www.facebook.com/photo.php?fbid=180442654880687&set=a.101969536061333&type=3&mibextid=rS40aB7S9Ucbxw6v)
+!()[logo](https://www.facebook.com/photo.php?fbid=180442654880687&set=a.101969536061333&type=3&mibextid=rS40aB7S9Ucbxw6v)
 
 
 
