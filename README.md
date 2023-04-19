@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Faraz Ahmed</h1>
 <h3 align="center">A passionate ethical hacker and cyber security experts from Pakistan</h3>
-<img align="right" alt="coding"width="400"img src="https://user-images.githubusercontent.com/124487929/233108755-962bff49-2e3f-4eaf-94e7-0cd7799c41c8.png>
+
+![](https://github.com/Faraz-Ahmed/![image](https://user-images.githubusercontent.com/124487929/233110883-2951de6a-ed0c-4dc2-8914-8d47271844f0.png)
 
 
 
@@ -8,7 +9,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sahibzada-ahmed" alt="sahibzada-ahmed" /></a> </p>
 
-- 📫 How to reach me **Whatsaap 03402675637(instructions:don't call or you will automatically get blocked by my bot system)**
+- 📫 How to reach me **Whatsaap 03402675637(instructions:don't call or you will automatically get blocked by my bot syst
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
